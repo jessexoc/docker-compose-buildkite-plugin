@@ -258,7 +258,7 @@ The default is `false`.
 
 #### `quiet-pull` (run only, boolean)
 
-Start up dependencies with `--quiet-pull` to prevent even more logs during that portion of the execution.
+When pulling dependencies use `--quiet`, or when starting up dependencies use `--quiet-pull` to prevent even more logs during that portion of the execution.
 
 The default is `false`.
 
